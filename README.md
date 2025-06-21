@@ -2,6 +2,24 @@
 
 Este repositorio contiene un trabajo práctico con implementación de algoritmos de búsqueda y ordenamiento clásicos, aplicados a desafíos comunes en entrevistas técnicas.
 
+##  Objetivo
+
+- Comprender cómo funcionan los algoritmos básicos de búsqueda y ordenamiento.
+- Aplicarlos a problemas reales como verificación de anagramas o búsqueda en listas.
+- Analizar diferencias de rendimiento y aplicabilidad.
+
+##  Archivos
+
+El archivo principal del proyecto es:
+
+- `Caso_Practico_Algoritmos.ipynb`: contiene los códigos de búsqueda y ordenamiento, con ejemplos explicados paso a paso.
+
+El archivo digital es
+- `TP2_Programacion_Lencina-Mancini.pdf`: con todos los materiales desarrollados.
+
+Video explicativo es
+- [Video en Youtube](https://youtu.be/YFDvKe6xfVk?si=3tvAGMB2Mmns7shE)
+  
 ###  Búsqueda
 
 Se presentan dos formas de buscar un nombre dentro de una lista de personas:
@@ -23,23 +41,11 @@ Algoritmos incluidos:
 
 Cada algoritmo convierte las palabras en listas ordenadas y luego las compara.
 
-##  Archivo del Notebook
-
-El archivo principal del proyecto es:
-
-- `Caso_Practico_Algoritmos.ipynb`: contiene los códigos de búsqueda y ordenamiento, con ejemplos explicados paso a paso.
-
-## 🛠️ Tecnologías usadas
+## Tecnologías usadas
 
 - Python 3
 - Jupyter Notebook
 
-##  Objetivo
 
-- Comprender cómo funcionan los algoritmos básicos de búsqueda y ordenamiento.
-- Aplicarlos a problemas reales como verificación de anagramas o búsqueda en listas.
-- Analizar diferencias de rendimiento y aplicabilidad.
 
-## 📄 Licencia
 
-Este proyecto está realizado con fines educativos.
