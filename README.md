@@ -18,7 +18,7 @@ El archivo digital es
 - `TP2_Programacion_Lencina-Mancini.pdf`: con todos los materiales desarrollados.
 
 Video explicativo es
-- [Video en Youtube](https://youtu.be/YFDvKe6xfVk?si=3tvAGMB2Mmns7shE){target="_blank"}
+- [Video en Youtube](https://youtu.be/YFDvKe6xfVk?si=3tvAGMB2Mmns7shE{target="_blank"}) 
   
 ###  Búsqueda
 
